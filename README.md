@@ -34,7 +34,7 @@ This project relies on the **Espressif Display Panel** framework. Ensure you hav
 
 Your sketch folder must contain these specific configuration files to match the Waveshare hardware:
 
-* `Portrait_Pong.ino`: The main game logic.
+* `pong.ino`: The main game logic.
 * `esp_panel_board_custom_conf.h`: Defines the specific RGB timing and pinout for this board.
 * `lvgl_v8_port.h` & `.cpp`: Handles the LVGL buffer flushing and task management.
 
