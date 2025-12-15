@@ -23,10 +23,12 @@ This project demonstrates how to handle 2D game physics, touch input mapping, an
 
 This project relies on the **Espressif Display Panel** framework. Ensure you have the following installed in Arduino IDE:
 
-1.  **ESP32_Display_Panel** (by Espressif Systems)
-2.  **ESP32_IO_Expander** (by Espressif Systems)
-3.  **lvgl** (v8.3.x or 8.4.0)
-4.  **ESP32 Board Definition:** `v2.0.17` (Recommended) or `v3.0.x`.
+| Library  	|   Version	| 
+|---	|---	|
+|   [ESP3](https://github.com/espressif/arduino-esp32)	|  3.3.4 	|  
+| [LVGL](https://github.com/lvgl/lvgl) 	|  8.4.0 	| 
+|   [ESP32_Display_Panel](https://github.com/esp-arduino-libs/ESP32_Display_Panel)	|  1.0.0 	|  
+|   [ESP32_IO_Expander](https://github.com/esp-arduino-libs/ESP32_IO_Expander/)	|  1.0.1 	|  
 
 ## 📂 Project Structure
 
